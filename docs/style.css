@@ -1,0 +1,13 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #0800ff;
+    background-color: #000;
+}
+video {
+    max-width: 90%;
+}
+
+.fortnite{
+    background-color: black;
+}
